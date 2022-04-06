@@ -1,0 +1,10 @@
+.fondo{
+    background-image: url(img/logo\ play\ station.jpg);
+    background-size: cover;
+    background-position: top center;
+    padding: 5% 2%;
+}
+.parrafo{
+    text-align: center;
+    color: white;
+}
