@@ -8,3 +8,9 @@
     text-align: center;
     color: white;
 }
+.fondo2{
+    background-image: url(img/consolas\ usadas.jfif);
+    background-size: cover;
+    background-position: top center;
+    padding: 5% 2%;
+}
