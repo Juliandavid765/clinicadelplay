@@ -10,3 +10,12 @@ boton.addEventListener("click",function(event){
     }
     bandera=!bandera
 })
+let producto={
+    nombre:"ps4" ,
+    capacidad: "1 TB" ,
+    foto: "Nan" ,
+    estado: "segunda" ,
+    precio: 500.000
+}
+console.log (producto)
+console.log (producto.nombre)
